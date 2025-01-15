@@ -1,7 +1,7 @@
 京东脚本代挂扫码登录
 
 
-![未标题-1](https://github.com/daimaoru/JD_Scripts/assets/42701258/171fcbf6-7cfb-4447-84f2-fd44cd9b2cde)
+![未标题-1](https://raw.githubusercontent.com/daimaoru/JD_Scripts/refs/heads/main/%E6%9C%AA%E6%A0%87%E9%A2%98-1.jpg)
 
 
 使用方法：添加机器人发送口令 (登录或者上车)
